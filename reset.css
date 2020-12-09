@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+body, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, form, fieldset, p, button, select, input, textarea, th, td {margin:0; padding:0;}
+
+body {height:100%; font-family:'NBG', sans-serif; font-size:14px; color:#444;}
+
+img {border:none; vertical-align:top;}
+
+ul li , ol li {list-style:none;}
+
+fieldset {border:none;}
+
+table {border-collapse:collapse;}
+caption {overflow:hidden; width:0; height:0; font-size:0; line-height:0;}
+
+img, fieldset, button { border:0; padding:0px;}
+button {background:none;}
+input{-webkit-appearance:none; -webkit-border-radius:0;}
+input, select {vertical-align:middle;}
+legend {width:0; height:0; font-size:0; position:absolute; overflow:hidden;}
+
+a {color:#555; text-decoration:none; cursor:pointer;}
+a:link {color:#555;}
+a:visited {color:#555;}
+a:active {color:#555;}
+
+body{background-color:#f5f6f7;}
+#mid{width:500px; margin:0 auto; margin-top: 40px;}
+#logo{text-align:center; width:240px; height:45px; margin: 0 auto; overflow:hidden;}
+#join > .topbar > label{font-weight:bold;}
+#join > .topbar > input{width:99.5%; height:35px; margin:5px 0 10px 0; border:1px solid #dadada;}
+#in{margin-top:10px;}
+#in > label{font-weight:bold;}
+#in > input{width:99.5%; height:35px; margin:5px 0 10px 0; border:1px solid #dadada;}
+#in > select{width:99.5%; height:35px; margin:5px 0 10px 0; border:1px solid #dadada;}
+#in > label > p{color:#8e8e8e; font-size:12px; display: inline-block;}
+#in > div > label{font-weight:bold; display:block;}
+#in > div > input{width:32%; height:35px; margin:5px 0 10px 0; border:1px solid #dadada;}
+#in > div > select{width:32%; height:35px; margin:5px 0 10px 0; border:1px solid #dadada;}
+#in > .phone > input{width:99.5%; height:35px; margin:5px 0 10px 0; border:1px solid #dadada; background-color:#f7f7f7;}
+#in > .phone > select{width:99.5%; height:35px; margin:5px 0 10px 0; border:1px solid #dadada;}
+#in > .phone > div > input{width:70%; height:35px; margin:5px 0 10px 0; border:1px solid #dadada;}
+#in > .phone > div > input:last-child{width:28%; height:35px; margin:5px 0 10px 0; border:0px solid #dadada; color:#ffffff; background-color:#03c75a;}
+#in > .phone > input:last-child{height:50px; margin:5px 0 10px 0; border:0px solid #dadada; color:#ffffff; background-color:#03c75a; font-size:20px;}
+#in > #footer > div > p{font-size:13px; text-align:center; margin-top: 20px;}
+#in > #footer > div > .img2{margin-top:15px;}
+#in > #footer > div > p > a{font-weight:bold;}
+#in > #footer > div > .img2 > p{font-size:13px; text-align:center; margin-right:30px;}
+#in > #footer > div > .img2 > p > a{font-weight:bold;}
+#in > #footer > div > .img2 > div{margin-left:50px; position:relative; float:left; overflow:hidden; width:130px; height:26px;}
+#in > #footer > div > .img2 > div > img{position:absolute; top:-50px; float:left;}
+
+
